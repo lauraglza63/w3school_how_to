@@ -9,5 +9,8 @@
 		<li>
 			<a href="/menus/menu-icon">Menu Icon</a>
 		</li>
+		<li>
+			<a href="/menus/accordion">Accordion</a>
+		</li>
 	</ol>
 </div>
