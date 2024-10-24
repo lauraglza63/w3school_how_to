@@ -18,5 +18,8 @@
 		<li>
 			<a href="/menus/vertical-tabs">Vertical Tabs</a>
 		</li>
+		<li>
+			<a href="/menus/tab-headers">Tab Headers</a>
+		</li>
 	</ol>
 </div>
