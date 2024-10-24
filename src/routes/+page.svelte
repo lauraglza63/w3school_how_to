@@ -15,5 +15,8 @@
 		<li>
 			<a href="/menus/tabs">Tabs</a>
 		</li>
+		<li>
+			<a href="/menus/vertical-tabs">Vertical Tabs</a>
+		</li>
 	</ol>
 </div>
