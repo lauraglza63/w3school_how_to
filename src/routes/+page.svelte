@@ -12,5 +12,8 @@
 		<li>
 			<a href="/menus/accordion">Accordion</a>
 		</li>
+		<li>
+			<a href="/menus/tabs">Tabs</a>
+		</li>
 	</ol>
 </div>
