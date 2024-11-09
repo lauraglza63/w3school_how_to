@@ -21,5 +21,8 @@
 		<li>
 			<a href="/menus/tab-headers">Tab Headers</a>
 		</li>
+		<li>
+			<a href="/menus/full-page-tabs">Full Page Tabs</a>
+		</li>
 	</ol>
 </div>
