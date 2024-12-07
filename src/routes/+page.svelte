@@ -24,5 +24,8 @@
 		<li>
 			<a href="/menus/full-page-tabs">Full Page Tabs</a>
 		</li>
+		<li>
+			<a href="/menus/hover-tabs">Hover Tabs</a>
+		</li>
 	</ol>
 </div>
