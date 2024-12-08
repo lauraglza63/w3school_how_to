@@ -30,5 +30,8 @@
 		<li>
 			<a href="/menus/top-navigation-bar#home">Top Navigation Bar</a>
 		</li>
+		<li>
+			<a href="/menus/responsive-topnav#home">Responsive Topnav</a>
+		</li>
 	</ol>
 </div>
