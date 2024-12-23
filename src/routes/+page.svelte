@@ -33,5 +33,8 @@
 		<li>
 			<a href="/menus/responsive-topnav#home">Responsive Topnav</a>
 		</li>
+		<li>
+			<a href="/menus/split-navigation">Split Navigation</a>
+		</li>
 	</ol>
 </div>
