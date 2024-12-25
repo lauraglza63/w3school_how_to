@@ -36,5 +36,8 @@
 		<li>
 			<a href="/menus/split-navigation">Split Navigation</a>
 		</li>
+		<li>
+			<a href="/menus/navbar-with-icons">Navbar With Icons</a>
+		</li>
 	</ol>
 </div>
