@@ -40,4 +40,11 @@
 			<a href="/menus/navbar-with-icons">Navbar With Icons</a>
 		</li>
 	</ol>
+
+	<p class="text-lg font-semibold">Images</p>
+	<ol class="ml-5 list-inside list-decimal">
+		<li>
+			<a href="/images/slideshow">Slideshow / Carousel</a>
+		</li>
+	</ol>
 </div>
