@@ -46,5 +46,8 @@
 		<li>
 			<a href="/images/slideshow">Slideshow / Carousel</a>
 		</li>
+		<li>
+			<a href="/images/slideshow-galery">Slideshow Galery</a>
+		</li>
 	</ol>
 </div>
