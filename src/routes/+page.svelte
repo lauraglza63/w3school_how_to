@@ -39,6 +39,9 @@
 		<li>
 			<a href="/menus/navbar-with-icons">Navbar With Icons</a>
 		</li>
+		<li>
+			<a href="/menus/search-menu">Search Menu</a>
+		</li>
 	</ol>
 
 	<p class="text-lg font-semibold">Images</p>
