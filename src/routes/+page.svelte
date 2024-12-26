@@ -49,5 +49,8 @@
 		<li>
 			<a href="/images/slideshow-galery">Slideshow Galery</a>
 		</li>
+		<li>
+			<a href="/images/modal-images">Modal Images</a>
+		</li>
 	</ol>
 </div>
